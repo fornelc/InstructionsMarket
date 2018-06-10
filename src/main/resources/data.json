@@ -1,0 +1,122 @@
+[
+  {
+    "entity": "BNP",
+    "buySell": "S",
+    "agreedFx": 0.22,
+    "currency": "AED",
+    "instructionDate": "2018-06-30",
+    "settlementDate": "2018-06-31",
+    "units": 420,
+    "priceUnit": 120.10
+  },
+  {
+    "entity": "BNP",
+    "buySell": "B",
+    "agreedFx": 0.22,
+    "currency": "AED",
+    "instructionDate": "2018-06-30",
+    "settlementDate": "2018-06-31",
+    "units": 300,
+    "priceUnit": 120.10
+  },
+  {
+    "entity": "BNP",
+    "buySell": "S",
+    "agreedFx": 0.22,
+    "currency": "AED",
+    "instructionDate": "2018-06-31",
+    "settlementDate": "2018-06-01",
+    "units": 122,
+    "priceUnit": 120.10
+  },
+  {
+    "entity": "BNP",
+    "buySell": "B",
+    "agreedFx": 0.22,
+    "currency": "AED",
+    "instructionDate": "2018-06-31",
+    "settlementDate": "2018-06-02",
+    "units": 311,
+    "priceUnit": 120.10
+  },
+  {
+    "entity": "HSBC",
+    "buySell": "S",
+    "agreedFx": 0.30,
+    "currency": "SAR",
+    "instructionDate": "2018-06-04",
+    "settlementDate": "2018-06-05",
+    "units": 181,
+    "priceUnit": 266.38
+  },
+  {
+    "entity": "HSBC",
+    "buySell": "B",
+    "agreedFx": 0.30,
+    "currency": "SAR",
+    "instructionDate": "2018-06-03",
+    "settlementDate": "2018-06-04",
+    "units": 53,
+    "priceUnit": 266.38
+  },
+  {
+    "entity": "HSBC",
+    "buySell": "S",
+    "agreedFx": 0.30,
+    "currency": "SAR",
+    "instructionDate": "2018-05-07",
+    "settlementDate": "2018-05-08",
+    "units": 87,
+    "priceUnit": 266.38
+  },
+  {
+    "entity": "HSBC",
+    "buySell": "B",
+    "agreedFx": 0.30,
+    "currency": "SAR",
+    "instructionDate": "2018-05-07",
+    "settlementDate": "2018-05-09",
+    "units": 12,
+    "priceUnit": 266.38
+  },
+  {
+    "entity": "Citi",
+    "buySell": "S",
+    "agreedFx": 0.50,
+    "currency": "SGP",
+    "instructionDate": "2018-05-03",
+    "settlementDate": "2018-05-04",
+    "units": 11,
+    "priceUnit": 187.99
+  },
+  {
+    "entity": "Citi",
+    "buySell": "B",
+    "agreedFx": 0.50,
+    "currency": "SGP",
+    "instructionDate": "2018-04-30",
+    "settlementDate": "2018-05-01",
+    "units": 23,
+    "priceUnit": 187.99
+  },
+  {
+    "entity": "Citi",
+    "buySell": "S",
+    "agreedFx": 0.50,
+    "currency": "SGP",
+    "instructionDate": "2018-05-04",
+    "settlementDate": "2018-05-05",
+    "units": 43,
+    "priceUnit": 187.99
+  },
+  {
+    "entity": "Citi",
+    "buySell": "B",
+    "agreedFx": 0.50,
+    "currency": "SGP",
+    "instructionDate": "2018-05-04",
+    "settlementDate": "2018-05-06",
+    "units": 57,
+    "priceUnit": 187.99
+  }
+]
